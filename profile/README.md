@@ -1,3 +1,3 @@
-## 우리동네가나요? (OriNoneNeGaNaYo)
+## 주주클럽? (Realestate-Dashboard)
 
-![우리동네가나요?-2](https://user-images.githubusercontent.com/73998876/221976297-270be028-e1e2-4095-a43b-15a1561c584f.png)
+![주주클럽 drawio](https://user-images.githubusercontent.com/52487610/224470317-2ba300ec-3e10-474a-85d9-1c1e724f6f00.png)
